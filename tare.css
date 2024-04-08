@@ -1,0 +1,135 @@
+
+body {
+    background-color: white;
+}
+.navbar {
+    background-color: black;
+    color:white#fff;
+    display: flex;
+    width: 100vw;
+    position: relative;
+    bottom: 8px;
+    right: 8px;
+    justify-content:center;
+}
+.navbar h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.tit{
+    display:flex;
+}
+.contpr {
+
+    position: relative;
+    display: flex;
+    border: 2px solid black;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    top: 50px;
+    left: 50px;
+    padding: 10px;
+}
+.contpr img{
+
+    border-radius:50%;
+    border: 2px solid black;
+    display: flex;
+    position: relative;
+
+}
+
+.co1 {
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    text-align: start;
+    display: flex;
+    border-radius: 10px;
+    padding: 30px;
+    border: 2px solid black;
+    background-color: lightgray;
+    width: 1000px;
+    height: 95px;
+    margin-bottom: 20px;
+}
+h5{
+    margin-left: 780px;
+    margin-top: -41px;
+}
+.boto1{
+    width: 60px;
+    height: 30px;
+    left: 840px;
+    display: flex;
+    border:0px;
+    top: -38px;
+    border-radius: 8px;
+    position: relative;
+    cursor: pointer;
+    background-color: yellow;
+}
+
+.co2 {
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    text-align: start;
+    display: flex;
+    border-radius: 10px;
+    padding: 30px;
+    border: 2px solid black;
+    background-color: lightgray;
+    width: 1000px;
+    height: 95px;
+    margin-bottom: 20px;
+}
+
+.boto2{
+    width: 60px;
+    height: 30px;
+    left: 840px;
+    display: flex;
+    border:0px;
+    top: -38px;
+    border-radius: 8px;
+    position: relative;
+    cursor: pointer;
+    background-color: yellow;
+
+}
+.co3{
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    text-align: start;
+    display: flex;
+    border-radius: 10px;
+    padding: 30px;
+    border: 2px solid black;
+    background-color: lightgray;
+    width: 1000px;
+    height: 95px;
+    margin-bottom: 20px;
+}
+.boto3{
+    width: 60px;
+    height: 30px;
+    left: 840px;
+    display: flex;
+    border:0px;
+    top: -38px;
+    border-radius: 8px;
+    position: relative;
+    cursor: pointer;
+    background-color: yellow;
+}
+.contall {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
